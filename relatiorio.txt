@@ -8,7 +8,7 @@ O cronograma se baseia em criar uma plataforma de auxilio beta, feita de forma g
 
 Check list
 
-Todos os conteudos foram implementados no site e adaptados da melhor forma que consegui.
+Todos os conteudos foram implementados no site https://kaykyaabreu.github.io/SIteDoProjeto/ e adaptados da melhor forma que consegui.
 
 Revisão
 
